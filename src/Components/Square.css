@@ -1,0 +1,12 @@
+
+
+.square{
+    color: black;
+    background-color: cadetblue;
+    padding: 30px;
+    margin: 5px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
